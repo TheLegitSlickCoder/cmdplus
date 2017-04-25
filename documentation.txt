@@ -14,3 +14,4 @@ contents (path): Displays all the contents of a directory.
 createfile (path): Creates a file.
 launch (path/URL): Launches a path or URL.
 checkpath (path): Checks if a path exists.
+length (path): Gets the length of a file.
