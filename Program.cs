@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace cmd_
 {
@@ -117,6 +117,22 @@ namespace cmd_
                 }
 
                 Console.WriteLine("Path does not exist: " + arg2);
+            }
+
+            //Length Command:
+            if (arg1 == "length")
+            {
+                try
+                {
+                    int length = fr.readFile(arg2).Length;
+                    Console.WriteLine(length.ToString());
+                    return;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.ToString());
+                    return;
+                }
             }
 
             //If the command is invalid.
