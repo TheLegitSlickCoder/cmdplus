@@ -3,4 +3,4 @@
 Refer for the documentation.txt file for details.</p>
 
 <h4>Edit:</h4>
-<p>CMD+ V2 is coming soon!</p>
+<p>CMD+V2 will be released very soon!</p>
