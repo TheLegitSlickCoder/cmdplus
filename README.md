@@ -3,4 +3,4 @@
 Refer for the documentation.txt file for details.</p>
 
 <h4>Edit:</h4>
-<p>CMD+V2 is coming soon!</p>
+<p><a href= "https://www.github.com/TheLegitSlickCoder/cmdplus-v2">CMD+V2</a> has been released.</p>
