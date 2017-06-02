@@ -6,4 +6,5 @@
 Refer for the documentation.txt file for details.</p>
 
 <h4>Edit:</h4>
-<p><a href= "https://www.github.com/TheLegitSlickCoder/cmdplus-v2">CMD+V2</a> has been released.</p>
+<p>CMD+V2 has been released.<br>
+Visit the <a href= "https://www.github.com/TheLegitSlickCoder/cmdplus-v2">new repository</a>.</p>
